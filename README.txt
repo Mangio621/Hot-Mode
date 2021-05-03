@@ -24,7 +24,7 @@ your choice in the controller and simply press any key on your keyboard.
 5. To toggle the controller on and off, press the middle button that says 'ON'
 
 !! ** NOTE ** !!
-Windows might detect that the exe contains a virus because of how i've compiled and built the script.
+Windows might detect that the exe contains a virus because i've used python and pyinstaller.
 So i've also included my sourcecode for the app, if you still don't trust me :)
 Feel free to read the source code.
 
