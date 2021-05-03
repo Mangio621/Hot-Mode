@@ -8,6 +8,12 @@ hotkeys couldn't be assigned to the pad modes Hot Cue, Beat Loop, Pad FX and Sam
 So I wrote a controller that switches pad modes for you
 based on hotkeys and pad mode button positions assigned in the controller I made.
 
+!! ** NOTE ** !!
+Windows might detect that the exe contains a virus because i've used python and pyinstaller.
+So i've also included my sourcecode for the app, if you still don't trust me :)
+Feel free to read the source code. To run the source code, pip install keyboard and pip install mouse
+and run the script by doing python ./Hot Mode.exe
+
 !! DO NOT DELETE SETTINGS FOLDER OR CHANGE ANY OF ITS CONTENTS
 
 !! ** HOW TO USE ** !!
@@ -22,11 +28,6 @@ Simply open rekordbox and press the hot key assigned in the controller to switch
 4. To assign hotkeys, turn the controller off and just press the hotkey button above a pad mode of 
 your choice in the controller and simply press any key on your keyboard.
 5. To toggle the controller on and off, press the middle button that says 'ON'
-
-!! ** NOTE ** !!
-Windows might detect that the exe contains a virus because i've used python and pyinstaller.
-So i've also included my sourcecode for the app, if you still don't trust me :)
-Feel free to read the source code.
 
 !! ** Need Help? Or found a bug? ** !!
 Contact me on discord or email me <3.
