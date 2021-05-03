@@ -14,6 +14,7 @@ Windows might detect that the exe contains a virus because i've used python and 
 So i've also included my sourcecode for the app, if you still don't trust me :)
 Feel free to read the source code. To run the source code, pip install keyboard and pip install mouse
 and run the script by doing python ./Hot Mode.exe
+Scroll down!
 
 ### !! DO NOT DELETE SETTINGS FOLDER OR CHANGE ANY OF ITS CONTENTS
 
@@ -40,3 +41,15 @@ Email: cole.p.mangio@gmail.com
 https://github.com/Mangio621/Hot-Mode
 
 Have a great day <3
+
+# For Devs
+
+To run Hot Mode.py
+do:
+
+### pip install keyboard
+### pip install mouse
+
+### python ./Hot Mode.py
+
+GUI created with tkinter
