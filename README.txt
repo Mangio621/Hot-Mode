@@ -1,10 +1,9 @@
 # Hot Mode!
 
-![](https://github.com/Mangio621/Hot-Mode/blob/main/Settings/icon.png)
-
 ### The DDJ-200 Pad Controller
 
 *Author: Cole Mangio*
+https://github.com/Mangio621/Hot-Mode
 
 Having purchased the DDJ-200 with rekordbox, I was quite upset that 
 hotkeys couldn't be assigned to the pad modes Hot Cue, Beat Loop, Pad FX and Sampler.
