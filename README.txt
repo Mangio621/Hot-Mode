@@ -23,6 +23,11 @@ Simply open rekordbox and press the hot key assigned in the controller to switch
 your choice in the controller and simply press any key on your keyboard.
 5. To toggle the controller on and off, press the middle button that says 'ON'
 
+!! ** NOTE ** !!
+Windows might detect that the exe contains a virus because of how i've compiled and built the script.
+So i've also included my sourcecode for the app, if you still don't trust me :)
+Feel free to read the source code.
+
 !! ** Need Help? Or found a bug? ** !!
 Contact me on discord or email me <3.
 
