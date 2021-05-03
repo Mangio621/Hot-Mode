@@ -1,4 +1,7 @@
 # Hot Mode!
+
+![](https://github.com/Mangio621/Hot-Mode/tree/main/Settings/icon.png)
+
 ### The DDJ-200 Pad Controller
 
 *Author: Cole Mangio*
