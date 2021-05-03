@@ -13,7 +13,10 @@ based on hotkeys and pad mode button positions assigned in the controller I made
 Windows might detect that the exe contains a virus because i've used python and pyinstaller.
 So i've also included my sourcecode for the app, if you still don't trust me :)
 Feel free to read the source code. To run the source code, pip install keyboard and pip install mouse
-and run the script by doing python ./Hot Mode.exe
+and run the script by doing python ./Hot Mode.exe. Other wise if you trust me, download the contents,
+move the Hot Mode folder inside the zip to desktop and simply run the exe.
+
+For Devs,
 Scroll down!
 
 ### !! DO NOT DELETE SETTINGS FOLDER OR CHANGE ANY OF ITS CONTENTS
