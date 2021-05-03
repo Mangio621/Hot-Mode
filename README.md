@@ -1,7 +1,7 @@
 # Hot Mode!
 
 ![](https://github.com/Mangio621/Hot-Mode/blob/main/Settings/icon.png)
-![](https://github.com/Mangio621/Hot-Mode/blob/main/Settings/Preview.png)
+![](https://github.com/Mangio621/Hot-Mode/blob/main/Settings/Preview.PNG)
 
 ### The DDJ-200 Pad Controller
 
